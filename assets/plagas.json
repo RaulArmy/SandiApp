@@ -1,0 +1,358 @@
+{
+    "info": {
+        "count": 6,
+        "pages": 3,
+        "next": null,
+        "prev": null
+    },
+    "results": [
+        {
+            "id": 1,
+            "name": "0 afidos o pulgones",
+            "descripcion": "Las hojas y los brotes se enroscan, amarillentan y secan, El crecimiento se ve afectado",
+            "code": "S01E01",
+            "tratamiento": [
+            
+                {
+                    "id": "4325-962a-4539-8411-e65e3bbae5d22",
+                    "nombre": "Fungicida Imidacloprid 48.0 SL",
+                    "dosis": [
+                        {
+                            "id": "2525-83da-46ee-b6c4-5e2909071be0",
+                            "aplicacion": "No aplique el producto si va a cosechar durante los próximos 5 dias para reducir la cantidad de residuos de pesticidas del cultivo."
+                        },
+                        {
+                            "id": "685-962a-4539-8411-e6534e3bbae5d5",
+                            "aplicacion": "Aplicar el producto 1 vez."
+                        },
+                        {
+                            "id": "2342-962a-4539-sdd11-e65f2bae5d5",
+                            "aplicacion": "No aplique el producto si hace viento o llueve, evite aplicarlo durante las horas mas calurosas del dia"
+                        },
+                        {
+                            "id": "2099-962a-4539-sdd11-e65f3yhg5d5",
+                            "aplicacion": "Aplicar mediante Aereosol."
+                        }
+                    ]
+                },
+               { 
+                    "id": "8976-962a-4539-8411-e09e3bcac3d22",
+                    "nombre": "Fungicida Dimethoate 30.0 EC",
+                    "dosis": [
+                        {
+                            "id": "2424-83da-46ee-b6c4-5e4567890be0",
+                            "aplicacion": "No aplique el producto si va a cosechar durante los próximos 14 dias para reducir la cantidad de residuos de pesticidas del cultivo."
+                        },
+                        {
+                            "id": "123-962a-4539-8411-e6534e3asfer0d5",
+                            "aplicacion": "Aplicar el producto 1 vez."
+                        },
+                        {
+                            "id": "1287-962a-4539-sdd11-e65f8iuy5d5",
+                            "aplicacion": "No aplique el producto si hace viento o llueve, evite aplicarlo durante las horas mas calurosas del dia"
+                        }
+                ] 
+              }
+            ],
+            "precauciones": [
+                {
+                    "id": "drfh-83da-46ee-b6c4-5esd09071be0",
+                    "atencion": "Conservar bajo llave y fuera del alcance de los niños."
+                },
+                {
+                    "id": "789-962a-4539-8411-e6sD4e3bbae5d5",
+                    "atencion": "Use protección para los ojos."
+                },
+                {
+                    "id": "675-962a-4539-8411-esdf2bae5d5ss",
+                    "atencion": "Lavese las manos y agua limpia después de cada uso, además es peligroso para los animales."
+                }
+            ],
+            "created": "2017-11-10T12:56:33.798Z"
+        },
+        {
+            "id": 2,
+            "name": "1 mildiu lanoso de las cucurbitaceas",
+            "descripcion": "Desarrollo de manchas amarillas en la superficie superior de las hojas, desarrollan un vello aterciopelado difuso de color gris en la parte inferior de las hojas y los frutos, flores y brotes jóvenes quedan pequeños o mueren.",
+            "code": "S01E02",
+            "tratamiento": [
+                {
+                    "id": "12890fa-962a-4539-8411-e65e3bbae5d22",
+                    "nombre": "Fungicida Dimethomorph 20.27 SC, Ametoctradin 27.0 SC",
+                    "dosis": [
+                        {
+                            "id": "720b14c7-83da-46ee-b6c4-5e2909071be0",
+                            "aplicacion": "No aplique el producto si va a cosechar durante los próximos 3 dias para reducir la cantidad de residuos de pesticidas del cultivo."
+                        },
+                        {
+                            "id": "34890fa-962a-4539-8411-e6534e3bbae5d5",
+                            "aplicacion": "Aplicar el producto 2 veces, espere 8 dias entre cada aplicación."
+                        },
+                        {
+                            "id": "876890fa-962a-4539-sdd11-e65f2bae5d5",
+                            "aplicacion": "Aplicar mediante Aereosol."
+                        }
+                      ]
+                },
+                {
+                    "id": "abcdefg-962a-4539-8411-e65trew5d22",
+                    "nombre": "Fungicida Azoxystrobin 23.0",
+                    "dosis": [
+                        {
+                            "id": "67ytr-83da-46ee-b6c4-5r5543071be0",
+                            "aplicacion": "No aplique el producto si va a cosechar durante los próximos 5 dias para reducir la cantidad de residuos de pesticidas del cultivo."
+                        },
+                        {
+                            "id": "122hh-962a-4539-8411-e653ssd35d5",
+                            "aplicacion": "Aplicar el producto 2 veces, espere 15 dias entre cada aplicación."
+                        },
+                        {
+                            "id": "343eewq-962a-4539-sdd11-rewd2d5d5",
+                            "aplicacion": "No aplique el producto si hace viento o llueve, evite aplicarlo durante las horas mas calurosas del dia."
+                        },
+                        {
+                            "id": "876890fa-962a-4539-sdd11-e65f2bae5d5",
+                            "aplicacion": "Aplicar mediante Aereosol."
+                        }
+                     ]
+                    },
+                    {
+                    "id": "abcdefg-962a-4539-8411-e65trew5d22",
+                    "nombre": "Fungicida Metiran 55.0 WG, Pyraclostrobin",
+                    "dosis": [
+                        {
+                            "id": "fsxc33-83da-46ee-b6c4-5cdfs2be0",
+                            "aplicacion": "No aplique el producto si va a cosechar durante los próximos 5 dias para reducir la cantidad de residuos de pesticidas del cultivo."
+                        },
+                        {
+                            "id": "43eecl-962a-4539-8411-g54csdd5",
+                            "aplicacion": "Aplicar el producto 3 veces, espere 20 dias entre cada aplicación."
+                        },
+                        {
+                            "id": "kjgdf76-962a-4539-sdd11-097nbvsd5",
+                            "aplicacion": "No aplique el producto si hace viento o llueve, evite aplicarlo durante las horas mas calurosas del dia."
+                        },
+                        {
+                            "id": "78mofar-962a-4539-sdd11-e612eds5d5",
+                            "aplicacion": "Aplicar mediante Aereosol."
+                        }
+                    ]
+                }
+            ],
+            "precauciones": [
+                {
+                    "id": "asd14c7-83da-46ee-b6c4-5esd09071be0",
+                    "atencion": "Conservar bajo llave y fuera del alcance de los niños."
+                },
+                {
+                    "id": "sadasfa-962a-4539-8411-e6sD4e3bbae5d5",
+                    "atencion": "Use protección para los ojos."
+                },
+                {
+                    "id": "sd90fa-962a-4539-8411-esdf2bae5d5ss",
+                    "atencion": "Botas de goma larga."
+                },
+                {
+                    "id": "hgtr-962a-4539-8411-ytrsd45dd5d5ss",
+                    "atencion": "Lavese las manos y agua limpia después de cada uso."
+                }
+            ],
+            "created": "2017-11-10T12:56:33.916Z"
+        },
+        {
+            "id": 3,
+            "name": "2 moscas minadoras o minadores",
+            "descripcion": "Lineas grises sinuosas e irregulares en las hojas, delimitadas por las venas de la hoja y las hojas caen prematuramente.",
+            "code": "S01E03",
+            "tratamiento": [
+                {
+                    "id": "8976-962a-4539-8411-e09e3bcac3d22",
+                    "nombre": "Fungicida Fipronil 5.0 SC",
+                    "dosis": [
+                        {
+                            "id": "ñllk-83da-46ee-b6c4-22wwae0",
+                            "aplicacion": "Aplicar el producto 1 vez."
+                        },
+                        {
+                            "id": "poil23-962a-4539-8411-e65ñlp095",
+                            "aplicacion": "Aplicar mediante Aereosol."
+                        },
+                        {
+                            "id": "lokjs-962a-4539-sdd11-sead565",
+                            "aplicacion": "No aplique el producto si hace viento o llueve, evite aplicarlo durante las horas mas calurosas del dia."
+                        }
+                    ]
+                },
+                {
+                    "id": "4325-962a-4539-8411-e65e3bbae5d22",
+                    "nombre": "Fungicida Dimethoate 30.0EC",
+                    "dosis": [
+                        {
+                            "id": "lkoh8-83da-46ee-b6c4-5e6ytfs1be0",
+                            "aplicacion": "No aplique el producto si va a cosechar durante los próximos 14 dias para reducir la cantidad de residuos de pesticidas del cultivo."
+                        },
+                        {
+                            "id": "098-962a-4539-8411-e657ydr55d5",
+                            "aplicacion": "Aplicar el producto 1 vez."
+                        },
+                        {
+                            "id": "mlkd-962a-4539-sdd11-e6gr5red5",
+                            "aplicacion": "No aplique el producto si hace viento o llueve, evite aplicarlo durante las horas mas calurosas del dia."
+                        },
+                        {
+                            "id": "cxza1-962a-4539-sdd11-edsf32d5",
+                            "aplicacion": "Aplicar mediante Aereosol."
+                        }
+                    ]
+                }
+             ],
+             "precauciones": [
+                {
+                    "id": "xxxx-83da-46ee-b6c4-1aaabe0",
+                    "atencion": "Conservar bajo llave y fuera del alcance de los niños."
+                },
+                {
+                    "id": "7aaas-962a-4539-8411-efsaaq5",
+                    "atencion": "Use protección para los ojos, boca y nariz."
+                },
+                {
+                    "id": "lllh0-962a-4539-8411-gt6545ss",
+                    "atencion": "Lavese las manos y agua limpia después de cada uso, además es peligroso para los animales y contamina el agua de los peces."
+                }
+            ],
+            "created": "2017-11-10T12:56:34.022Z"
+        },
+        {
+            "id": 4,
+            "name": "3 tizon de la base del tallo",
+            "descripcion": "Alfombrilla y esponjosa con estructuras oscuras redondeadas en el tallo y el suelo circundante, las hojas se marchitan y la planta se encorva y muere. ",
+            "code": "S01E04",
+            "tratamiento": [
+                {
+                    "id": "loj54-962a-4539-8411-efghij564",
+                    "nombre": "Fungicida Carbendazim 25.0 WS, Mancozep 50.0 WS",
+                    "dosis": [
+                        {
+                            "id": "vbjkh1-83da-46ee-b6c4-98ufhsg",
+                            "aplicacion": "Aplicar el producto 1 vez."
+                        },
+                        {
+                            "id": "1309q-962a-4539-sdd11-sqeq3221",
+                            "aplicacion": "Empapado del suelo ."
+                        }
+                    ]
+                }
+            ],
+            "precauciones": [
+                {
+                    "id": "ññññ32-83da-46ee-b6c4-5raul2",
+                    "atencion": "Conservar bajo llave y fuera del alcance de los niños."
+                },
+                {
+                    "id": "12fzc-962a-4539-8411-pñlaa2",
+                    "atencion": "Use protección para los ojos, boca y nariz."
+                },
+                {
+                    "id": "453eac-962a-4539-8411-0opijhg4",
+                    "atencion": "Botas de goma larga, guantes largos, además de que contamina el agua para los peces."
+                },
+                {
+                    "id": "qnm764-962a-4539-8411-esss321s",
+                    "atencion": "Lavese las manos y agua limpia después de cada uso, además es peligroso para los animales."
+                }
+            ],
+            "created": "2017-11-10T12:56:34.129Z"
+        },
+        {
+            "id": 5,
+            "name": "4 virus del mosaico del pepino",
+            "descripcion": "Las hojas y los brotes se enroscan, amarillentan y secan, El crecimiento se ve afectado",
+            "code": "S01E05",
+            "tratamiento": [ 
+                {
+                    "id": "ytres6-962a-4539-8411-09oiyrv2",
+                    "nombre": "Fungicida Imidacloprid 48.0 SL",
+                    "dosis": [
+                        {
+                            "id": "127f-83da-46ee-b6c4-6yt348e",
+                            "aplicacion": "No aplique el producto si va a cosechar durante los próximos 5 dias para reducir la cantidad de residuos de pesticidas del cultivo."
+                        },
+                        {
+                            "id": "1092er-962a-4539-8411-y6745cres2",
+                            "aplicacion": "Aplicar el producto 1 vez."
+                        },
+                        {
+                            "id": "1278bkp-962a-4539-sdd11-x564tres",
+                            "aplicacion": "No aplique el producto si hace viento o llueve, evite aplicarlo durante las horas mas calurosas del dia"
+                        },
+                        {
+                            "id": "09813dj-962a-4539-sdd11-q12er54",
+                            "aplicacion": "Aplicar mediante Aereosol."
+                        }
+                    ]
+                },
+                {
+                    "id": "3065hgxj-962a-4539-8411-m564tre2",
+                    "nombre": "Fungicida Dimethoate 30.0 EC",
+                    "dosis": [
+                        {
+                            "id": "123pol-83da-46ee-b6c4-arme4531",
+                            "aplicacion": "No aplique el producto si va a cosechar durante los próximos 14 dias para reducir la cantidad de residuos de pesticidas del cultivo."
+                        },
+                        {
+                            "id": "67532vg-962a-4539-8411-l98422f",
+                            "aplicacion": "Aplicar el producto 1 vez."
+                        },
+                        {
+                            "id": "307uith-962a-4539-sdd11-v45rte32",
+                            "aplicacion": "No aplique el producto si hace viento o llueve, evite aplicarlo durante las horas mas calurosas del dia"
+                        }
+                    ]
+                }
+              ],
+            "precauciones": [
+                {
+                    "id": "zxcdw32-83da-46ee-b6c4-1abcdes53",
+                    "atencion": "Conservar bajo llave y fuera del alcance de los niños."
+                },
+                {
+                    "id": "ñoil12-962a-4539-8411-23rjfhq23",
+                    "atencion": "Use protección para los ojos."
+                },
+                {
+                    "id": "25fgs4-962a-4539-8411-09lfhns24",
+                    "atencion": "Lavese las manos y agua limpia después de cada uso, además es peligroso para los animales."
+                }
+            ],
+            "created": "2017-11-10T12:56:34.236Z"
+        },
+        {
+            "id": 6,
+            "name": "5 planta sana",
+            "descripcion": "Buen estado es esta plata esto pinta una buena cocecha",
+            "code": "S01E06",
+            "tratamiento": [
+                {
+                    "id": "0901df-962a-4539-8411-l67gtr43s",
+                    "nombre":"",
+                    "dosis": [
+                        {
+                            "id": "345fres-83da-46ee-b6c4-ñlogbv67te",
+                            "aplicacion": "Los arboles y las plantas que están sanos tienen color uniforme verde oscuro y flores de colores brillantes."
+                        },
+                        {
+                            "id": "5521dl-962a-4539-8411-i98t65e",
+                            "aplicacion": "Sus hojas son firmes y producirán frutos nutritivos ."
+                        },
+                        {
+                            "id": "4567fg2-962a-4539-sdd11-u5673fv3",
+                            "aplicacion": "En general, las plantas tienen una buena capacidad para conservarse sanas."
+                        }
+                    ]
+                }
+             ],
+            "precauciones": [],
+            "created": "2017-11-10T12:56:34.339Z"
+        }
+    ]
+}
